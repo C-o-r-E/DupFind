@@ -1,0 +1,5 @@
+To run this QT 4.5 and python 2.6 are most probably needed.
+
+start it by running dupfind.py
+
+$ python dupfind.py
